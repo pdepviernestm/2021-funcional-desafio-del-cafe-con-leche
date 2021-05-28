@@ -1,4 +1,3 @@
-{-# LANGUAGE DeriveFoldable #-}
 module Library where
 import PdePreludat hiding (foldr, sum, elem, all)
 import Prelude (foldr, sum, elem, all, Foldable(..))

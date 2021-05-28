@@ -16,6 +16,6 @@ Sobre este repo no tienen permiso de escritura, lo pueden clonar, pero no pueden
 
 ![](https://i.imgur.com/p2FKUPJ.png)
 
-## Arbol binario ordenado
+## Look and say / constante de Conway
 
 ## Un foldr para una flor
