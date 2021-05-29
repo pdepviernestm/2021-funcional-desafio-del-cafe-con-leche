@@ -1,6 +1,6 @@
 module Spec where
 
-import PdePreludat hiding (foldr, sum, elem, all, any)
+import PdePreludat hiding (foldr, sum, elem, all, any, Number(..))
 import Prelude (foldr, sum, elem, all, any)
 import Library
 import Test.Hspec
@@ -15,8 +15,8 @@ correrTests = hspec $ do
     it "cada termino se construye escribiendo la cantidad de repetidos seguidos en el termino anterior" $ do
       lookAndSay !! 5 `shouldBe` 312211
       lookAndSay !! 6 `shouldBe` 13112221
-      lookAndSay !! 13 `shouldBe` 11131221131211131231121113112221121321132132211331222113112211
-      lookAndSay !! 14 `shouldBe` 311311222113111231131112132112311321322112111312211312111322212311322113212221
+      lookAndSay !! 7 `shouldBe` 1113213211
+      lookAndSay !! 8 `shouldBe` 31131211131221
 
   describe "foldr" $ do
     it "cuando el arbol tiene solo la raiz opera la semilla con la raiz" $ do
