@@ -18,4 +18,10 @@ Sobre este repo no tienen permiso de escritura, lo pueden clonar, pero no pueden
 
 ## Look and say / constante de Conway
 
+- Tomás Julian Antonio
+- Joaquín Grimoldi
+
 ## Un foldr para una flor
+
+- Joaquín Grimoldi
+- Tomás Julian Antonio
