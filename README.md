@@ -20,8 +20,10 @@ Sobre este repo no tienen permiso de escritura, lo pueden clonar, pero no pueden
 
 - Tomás Julian Antonio
 - Joaquín Grimoldi
+- Valentina Luján Rau Robayo
 
 ## Un foldr para una flor
 
 - Joaquín Grimoldi
 - Tomás Julian Antonio
+- Valentina Luján Rau Robayo
